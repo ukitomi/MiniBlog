@@ -1,5 +1,6 @@
-# MeanCourse
+# MiniBlog
 
+A modern, scalable and high-speed Web Applications that use Angular, NodeJS, Express, and MongoDB.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.4.
 
 ## Development server
